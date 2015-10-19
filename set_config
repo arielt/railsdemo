@@ -1,0 +1,2 @@
+echo "development:" > config/config.yml
+echo "  redis: $1" >> config/config.yml
