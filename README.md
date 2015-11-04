@@ -32,3 +32,5 @@ You can then open the dist/index.html file in any HTML5-enabled browser.  Upen o
 URL of your server in the top-centered input box (default is http://localhost:8002/api/api-docs).  Click the "Explore"
 button and you should see the resources available on the server.
 
+### Release tag
+Use release tag to publish the application
