@@ -25,3 +25,8 @@ gem "grape",          "0.8.0"
 gem "grape-entity",   "0.4.3"
 gem "grape-swagger",  "0.10.1"
 gem "rack-cors",      "0.2.9", :require => "rack/cors"
+
+# fluentd logging
+gem 'act-fluent-logger-rails'
+gem 'lograge'
+
